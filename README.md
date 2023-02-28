@@ -4,4 +4,5 @@ To deploy this project run
 
 ```bash
   pip install scikit-learn
+  pip install streamlit_ace
 ```
